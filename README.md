@@ -1,10 +1,4 @@
-
-Olá! Eu sou o Pablo Ricardo.
-
-
-
-- 💻 Hoje trabalho como Desenvolvedor Full Stack
-- Estudando Análise e Desenvolvimento de Sistemas
+- Desenvolvedor Full Stack
 - [Em construção]
 
 <div>
